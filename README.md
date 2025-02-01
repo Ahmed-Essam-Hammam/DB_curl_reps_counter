@@ -1,5 +1,3 @@
-# DB_curl_reps_counter
-
 # **Pose Detection & Exercise Counter using Mediapipe**  
 
 This project is a **real-time pose detection system** using **Mediapipe Pose and OpenCV**. It detects human body landmarks and calculates joint angles to **track movement and count exercise repetitions**.
